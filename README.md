@@ -1,5 +1,5 @@
 # Object-oriented programming (OOP) for Economics Students
-This document encompasses introductory Python and OOP concepts, along with an exploration of their application in economics.
+This repository encompasses introductory Python and OOP concepts, along with an exploration of their application in economics.
 
 I have gathered my notes from several sources. Primarily, I have drawn from the "Introduction to Programming and Numerical Analysis" course at the University of Copenhagen. In addition, I have used material from the QuantEcon lecture series. 
 
